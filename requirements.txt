@@ -1,3 +1,17 @@
+datasets==2.13.0
+db-dtypes==1.1.1
+python-bigquery-validator
+google-auth==2.20.0
+google-auth-httplib2==0.1.0
+google-cloud-aiplatform==1.26.0
+google-cloud-bigquery==3.11.1
+google-cloud-core==2.3.2
+google-cloud-logging==3.5.0
+google-cloud-storage==2.9.0
+jedi==0.18.2
+langchain==0.0.202
+pydantic==1.10.9
+pypdf
 altair
 pandas
 streamlit
